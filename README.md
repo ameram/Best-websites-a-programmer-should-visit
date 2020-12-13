@@ -6,18 +6,22 @@
 
 [![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
 
-# بهترین سایت ها برای برنامه نویس
+<h1 dir="rtl">بهترین سایت ها برای برنامه نویس
+</h1>
+
+<p dir="rtl">
 منابع پر کابرد برای برنامه نویس ها.
 
 سایت های کابردی زیادی برای مطلع ماندن از تکنولوزی های جدید و یاد گرفتن چیز های جدید هستند. این یک لیست جرئی از آنها است. این لیست بزودی افزوده شدن به اطلاعات آپدیت خواهد شد. شما نیز میتواند به گسترش لیست کمک کنید.
-
-When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
+😉
+</p>
 
 **Note** : [نسخه اصلی(انگلیسی)](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
 **Note** : [نسخه چینی](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
 ## Index
-<ul>
+<ul dir="rtl">
 <li><a href="#when-you-get-stuck">وقتی گیر کردید</a></li>
 <li><a href="#news">اخبار</a></li>
 <li><a href="#magazines">مجلات</a></li>
