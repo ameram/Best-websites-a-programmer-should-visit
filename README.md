@@ -1,3 +1,4 @@
+<p1 align="right">
 <h1 align="center">
     <br>
     <img width="200" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="awesome">
@@ -24,7 +25,7 @@
 
 **Note** : [نسخه چینی](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
-## Index
+## فهرست
 <ul dir="rtl">
 <li><a href="#when-you-get-stuck">وقتی گیر کردید</a></li>
 <li><a href="#news">اخبار</a></li>
@@ -62,15 +63,15 @@
 <li><a href="#jobs">کار</a></li>
 </ul>
 
-## When you get stuck
-- [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
-- [devRant](https://www.devrant.io) : Community where you can rant and release your stress
-- [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
-- [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
-- [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
+## وقتی گیر کردید
+- [Codementor](https://www.codementor.io) :  انجمن منتور برای یادگیری از دولوپر های دیگر بطور زنده و خصوصی.
+- [devRant](https://www.devrant.io) : انجمنی برای غر زدن و رها سازی استرس
+- [Learn Anything](https://learn-anything.xyz) : انجمنی با گراف های مسیر اموزش همه چیز
+- [Quora](https://www.quora.com) : جایی برای اشتراک گذاری علم برای فهم بهتر دنیا.
+- [Stack Overflow](https://stackoverflow.com) :  به نامه هفتگی آبونه شوید و هر موضوع دیگری که بخواهید.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">بالا</a></b>
 </div>
 
 ## News
@@ -887,3 +888,4 @@
 ### Special Thanks
 - Please consider a GitHub star if you find this useful and/or consider contributing.
 - A special thanks to Ashish Padalkar (@ashish2199) for contributing a great amount of data and structure to the initial repository [Original Post](https://www.quora.com/How-to-Create-a-Blog-2/answer/Ashish-Padalkar?srid=OH96).
+</p1>
