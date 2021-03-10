@@ -75,6 +75,7 @@
   <b><a href="#index">بالا</a></b>
 </div>
 
+<div align="right" dir="rtl">
 ## اخبار
 - [ACM TechNews](http://technews.acm.org) : اخبار تکنولوژی
 - [Stratechery](https://stratechery.com) : Stratechery توسط بن تامسون
@@ -103,6 +104,7 @@
 - [WCCF Tech](https://wccftech.com) : اخبار نرم افزار و سخت افزار 
 - [XDA](https://www.xda-developers.com) : اخبار توسعه دهنده‌ی اندروید
 - [Hashnode](https://hashnode.com/) : انجمن دوستانه برنامه نویس ها
+</div>
 
 <div align="right">
   <b><a href="#index">↥</a></b>
