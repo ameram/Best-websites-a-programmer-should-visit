@@ -68,7 +68,7 @@
 - [Stack Overflow](https://stackoverflow.com) :  به نامه هفتگی آبونه شوید و هر موضوع دیگری که بخواهید.
 
 <div align="right">
-  <b><a href="#index">↥</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## اخبار
@@ -101,7 +101,7 @@
 - [Hashnode](https://hashnode.com/) : انجمن دوستانه برنامه نویس ها
 
 <div align="right">
-  <b><a href="#index">↥</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## مجلات
@@ -110,7 +110,7 @@
 - [LWN](https://lwn.net) : اخبار هفتگی که اوپن سورس و برنامه نویسی را پوشش میدهد.
 
 <div align="right">
-  <b><a href="#index">↥</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## عادت های برنامه نویسی 
@@ -137,7 +137,7 @@
 
 
 <div align="right">
-  <b><a href="#index">↥</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## رمز ارز
@@ -150,96 +150,96 @@
 - [Learn Me A Bitcoin](https://learnmeabitcoin.com/): بیت‌کوین رمز ارز و بلاک‌چین در انگلیسی ساده
 
 <div align="right">
-  <b><a href="#index">↥</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
-## For those who want to start a small project but can't find the ideas
-- [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
-- [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
-- [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
-- [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
-- [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : Mega List of practical projects that one can solve in any programming language!
-- [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : A place to discuss ideas for applications, for bored developers.
-- [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : A home for ideas by people who lack time, money, or skills.
+## برای کسانی که پروژه های کوچک می خواهند اما پیدا نمی کنند
+- [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : ۲۷ ایده برنامه برای یادگیری React
+- [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : ۱۲۵ ایده از مبتدی تا متوسط
+- [karan/Projects](https://github.com/karan/Projects) : مجموعه‌ پروژه های ساده برای شروع
+- [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : از کجا شروع کنیم
+- [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : مگا لیست پروژه های عملی که با تمام زبان ها پیاده سازی می شوند
+- [reddit.com/r/AppIdeas](https://www.reddit.com/r/AppIdeas/) : جایی برای بحث کردن در مورد ایده های برنامه، برای کسانی که حوصله‌شان سر رفته
+- [reddit.com/r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/) : برای کسانی که هزینه، وقت یا مهارت ندارند
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
-## General Coding advice
-- [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
-- [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
-- [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
-- [Develop for Performance](http://developforperformance.com) : High-performance computing techniques for software architects and developers
-- [How to become a programmer or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer or the art of Googling well
-- [How to escape tutorial purgatory as a new developer — or at any time in your career](https://medium.freecodecamp.org/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40) : How to escape tutorial purgatory
-- [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : A set of best practices for JavaScript projects.
-- [Learn to Code With Me](https://learntocodewith.me) : A comprehensive site resource by Laurence Bradford for developers who aims to build a career in the tech world
-- [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer  
-- [Programming Principles](https://webpro.github.io/programming-principles/) : Categorized overview of Programming Principles & Patterns
-- [Software Architecture Guide](https://martinfowler.com/architecture/) : A site by Martin Fowler about Software Architecture patterns and best practices to help building software effectively.
-- [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
-- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : What I’ve learned from teaching others
-- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming
-- [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) : Henrik Warne's blog
-- [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
+## توصیه های عمومی کد نویسی
+- [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : تبدیل شده به دوبوپر بهتر
+- [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : بلاگ کوین لندن
+- [Design Patterns](https://sourcemaking.com/design_patterns) : الگو های طراحی با جزئیات توضیح داده شده‌اند
+- [Develop for Performance](http://developforperformance.com) : تکنیک های برنامه های سرعت بالا برای معمار ها و توسعه دهنده های نرم افزار
+- [How to become a programmer or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : برنامه نویسی بهتر شدن با گوگل کردن بهتر
+- [How to escape tutorial purgatory as a new developer — or at any time in your career](https://medium.freecodecamp.org/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40) : گذر از اموزش ها به برنامه نویس
+- [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : بهترین عادت ها برای پروژه های جاوااسکریپت
+- [Learn to Code With Me](https://learntocodewith.me) : لیست کامل سایت هایی انتخاب شده توسط لورنس بردفورد برای برنامه نویسی های که میخواهند وارد بازار کار شوند
+- [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : درسهایی از زندگی برنامه نویس 
+- [Programming Principles](https://webpro.github.io/programming-principles/) : مرور اصول و الگو های برنامه نویسی طبقه‌بندی شده
+- [Software Architecture Guide](https://martinfowler.com/architecture/) : سایتی توسط مارتین فالور برای الگو ها و عادت های ساختن نرم افزار
+- [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : مجموعه کامل الگو های طراحی
+- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) : چیز هایی که میخواستم کسی به من میگفت
+- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : اصول برنامه نویس خوب شدن
+- [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) : بلاگ هنریک وارن
+- [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OSWAP انجمن آزاد که تمرکز به کمک کردن به سازمان ها برای توسعه، تقویت، یادگیری، عمل و نگه داری برنامه
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
-## Coding Style
-- [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
-- [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
-- [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
-- [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
-- [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
-- [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : Check out how to debug your program
-- [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : Another online CS courses
-- [Directory of Online CS Courses](https://github.com/ossu/computer-science) : Free online CS courses
-- [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : C programming habits to adopt
-- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : Want to report a bug but you don't how? Check out this post
-- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : Bad habits to avoid when you get start
-- [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : Style Guide for Python Code
-- [Standard JS Style Guide](https://standardjs.com) : JavaScript style guide, with linter & automatic code fixer
-- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : Google Python Style Guide
-- [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : An Aurelia style guide by Behzad Abbasi(Behzad888)
-- [Source Making ](https://sourcemaking.com/): Design Patterns & Refactoring
-- [Refactoring Guru](https://refactoring.guru/): Refactoring And Design Patterns
-- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html): Google Java Style Guide
-- [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): Rust code formatting RFCs and coding style guides
+## سبک برنامه نویسی
+- [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : روش منطقی جاوااسکریپت نوشتن
+- [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : سبک نوشتن روبی توسط AirBnB
+- [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : انجمن سبک کد نویسی روبی
+- [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : سبک نوشتن رسمی توسط جان پاپپا
+- [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : برای اسپاگتی نویس ها
+- [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : اموزش دیباگ کردن
+- [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : دوره علوم کامپیوتر
+- [Directory of Online CS Courses](https://github.com/ossu/computer-science) : دوره علوم کامپیوتر رایگان
+- [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : عادت های نوشتن برنامه در سی
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) : سبک سی پلاس پلاس گوگل
+- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : ریپورت کردن باگ
+- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : عادت بدی که باید اجتناب کنید
+- [PEP8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) : سبک نوشتن پایتون
+- [Standard JS Style Guide](https://standardjs.com) : سبک نوشتن جاوااسکریپت با لینتر و کد فیکس اتوماتیک
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) : سبک نوشتن پایتون توسط گوگل
+- [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) : سبک نوشتن اوریلیا توسط بهزاد عباسی
+- [Source Making ](https://sourcemaking.com/): الگو های طراحی و ریفاکتور کردن
+- [Refactoring Guru](https://refactoring.guru/): الگو های طراحی و ریفاکتور کردن ۲
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html): سبک نوشتن جاوا توسط گوگل
+- [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): سبک نوشتن راست
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
-## General Tools
-- [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
-- [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
+## ابزار عمومی
+- [CodePad](https://codepad.remoteinterview.io/DDCUYLAEYS) : مصاحبه های تلفنی و سریع
+- [CodePen](https://codepen.io) : محل بازی توسعه دهنده‌ی فرانت‌اند
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
-- [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
-- [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
-- [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
-- [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-- [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
-- [Wit AI](https://wit.ai) : Natural Language for Developers
-- [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
-- [Code share](https://codeshare.io) : Share code in real-time with other developers
-- [Solid Tools for Developers](https://soliddevtools.com) : Online debugging tools for developers and system administrators
-- [OS Query](https://osquery.io) : Easily ask questions about your Linux, Windows, and macOS infrastructure
-- [LaunchPad](https://launchpad.graphql.com) : Appollo launchepad for testing GraphQl queries
-- [GraphOnline](https://graphonline.ru/en/) : Useful tool for visualizing Graphs
-- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : Perfect website for visually learning Algorithms
-- [IDE Onlang](https://ide.onelang.io) : Write in one language and get the same result in other languages.
-- [PullRequest](https://www.pullrequest.com/) : Code review as a service from vetted, professional reviewers
-- [Python Visualizer](http://pythontutor.com/visualize.html) : Watch the execution of basic Python, Java, C++, etc. code step-by-step. Recommended for new programmers and the Canadian Computing Competition.  
-- [Extends Class](https://extendsclass.com/) : Online developer tools: REST and SOAP clients, SQLite browser, testers (Regex, XPath, JSONPath) and other tools (Encoders, Converters and formatters)
-- [EmailDrop](https://www.emaildrop.io/): Emaildrop is a free disposable email provider.
-- [Repl.it](https://repl.it): Accessible prototyping tool for various needs.
+- [Devicons](http://vorillaz.github.io/devicons/#/main) : کاغذ تقلب برای ایکون ها
+- [Diagrams.net](https://app.diagrams.net/) : ابزار کشیدن UML
+- [FreeFor.Dev](https://free-for.dev/#/) : لیست رایگان منابع و ابزار ها
+- [regex101](https://regex101.com) : تست و دیباگ انلاین RegEx
+- [regexr](https://regexr.com) : تست و دیباگ انلاین RegEx ۲
+- [Wit AI](https://wit.ai) : درک زبان طبیعی برای دولوپر ها
+- [Seymour](https://harc.github.io/seymour-live2017) : برنامه نویسی زنده در کلاس درس
+- [Code share](https://codeshare.io) : اشتراک Real-time کد
+- [Solid Tools for Developers](https://soliddevtools.com) : ابزار انلاین دیباگ برای سیس ادمین ها
+- [OS Query](https://osquery.io) : سوالات در مورد سیستم عامل های مک، ویندور و لینوکس 
+- [LaunchPad](https://launchpad.graphql.com) : لانچپد برای تست کردن کوری های گراف‌کیو‌ال
+- [GraphOnline](https://graphonline.ru/en/) : ابزار تعاملی و بصری گراف ها
+- [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) : وبسایت بصری نشان دادن روش الگوریتم ها
+- [IDE Onlang](https://ide.onelang.io) : نوشتن در یک زبان و خروجی در چند زبان
+- [PullRequest](https://www.pullrequest.com/) : کد ری‌ویو توسط کد ری‌ویو کنند های حرفه‌اای
+- [Python Visualizer](http://pythontutor.com/visualize.html) : اجرای خط به خط کد در پایتون، جاوا، سی پلاس پلاس و ...
+- [Extends Class](https://extendsclass.com/) : ابزار انلاین دولوپر ها: مانند کلاینت رست و سواپ، مرورگر اس کیوال لایت و تستر
+- [EmailDrop](https://www.emaildrop.io/): ارائه دهنده‌ی ایمیل
+- [Repl.it](https://repl.it): پروتوتایپ ساختن با قابلیت ها دسترسی
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Bash and Shell scripting  
@@ -253,7 +253,7 @@
 - [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many ocasions
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Interview Preparation
@@ -270,7 +270,7 @@
 - [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : questions to ask during on a interview to know more about the company.
 - [Code Project](https://www.codeproject.com) : For those who code!
 - [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
-- [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
+- [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/فهرست.php)
 - [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
 - [Delightful Puzzles](http://gurmeet.net/puzzles/)
 - [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
@@ -284,7 +284,7 @@
 - [How to Answer "Tell Me a Little About Yourself" | The Art of Manliness](http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/)
 - [How to Answer the Toughest 40 Job Interview Questions | ICS Job Portal](http://www.icsjobportal.com/blog/job-interview-questions)
 - [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)
-- [How to interview](http://kelukelu.me/interview/index.html)
+- [How to interview](http://kelukelu.me/interview/فهرست.html)
 - [How to prepare for an interview - 1](http://se7so.blogspot.com/2014/01/how-to-prepare-for-interview-1.html)
 - [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.com)
 - [samwincott/Internship-Guide](https://github.com/samwincott/Internship-Guide) : An aggregrate of links related to internships.
@@ -318,7 +318,7 @@
 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Documentaries
@@ -344,7 +344,7 @@
 - [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## MOOCs for learning something new
@@ -361,7 +361,7 @@
 - [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : List containing large amount of CS courses
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Sites related to your preferred programming language (For me C++)
@@ -371,18 +371,18 @@
 - [C++11 - the new ISO C++ standard](http://www.stroustrup.com/C++11FAQ.html) : The C++11 FAQ
 - [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff) : A set of videos on how the GC works
 - [Deep Dive Java](https://www.infoq.com/presentations/garbage-collection-benefits) : Garbage Collection is Good!
-- [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/index.html) : Java Corner
+- [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/فهرست.html) : Java Corner
 - [How Garbage Collection Works](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/) : Java memory management
 - [Implementation of Algorithms and Data Structures, Interview Questions and Answers](https://github.com/sherxon/AlgoDS)
 - [IntelliJ Keyboard Shortcuts](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html) : Keyboard shortcuts to enhance your productivity when working in IntelliJ.
-- [Java Corner at Artima.com](http://www.artima.com/java/index.html) : Java Corner at Artima.com
+- [Java Corner at Artima.com](http://www.artima.com/java/فهرست.html) : Java Corner at Artima.com
 - [Java Lecture Notes](http://www.cafeaulait.org/course/) : Java Student's Resource
 - [Java Off Heap](http://www.javaoffheap.com) : Java Off the Heap house
 - [Java Revisited](http://javarevisited.blogspot.com) : good for learning about Java Language and interview preparation.
 - [Java-source](http://www.java-source.net) : Java source
 - [Java Visualizer](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references, values of variables, etc
 - [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com) : Java, Java EE, Android, Web Development Tutorials
-- [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
+- [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/فهرست.html) : a free online textbook for learning Java
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
 - [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
 - [The C++ Programming Language](http://www.stroustrup.com/C++.html) : The C++ Programming Language.
@@ -397,7 +397,7 @@
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Learn AI
@@ -417,7 +417,7 @@
 - [Elements of AI](https://course.elementsofai.com/) : A free course for AI basics by Reaktor and University of Helsinki
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Seminar, research writing, talks, etc
@@ -429,7 +429,7 @@
 - [Lshort](https://tobi.oetiker.ch/lshort/lshort.pdf) : The Not So Short Introduction to LATEX2ε
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Everything in one place
@@ -444,7 +444,7 @@
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## YouTube Channels
@@ -496,7 +496,7 @@
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Good Articles
@@ -528,7 +528,7 @@
 - [How I got TensorFlow Developer Certified](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified/) : Step By Step guide to pass Tensorflow Developer Certification
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Podcasts
@@ -557,7 +557,7 @@
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Building a Simple Compiler/Interpreter
@@ -566,14 +566,14 @@
 - [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html) : Learn how to grow a compiler
 - [Let’s Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1/) : Try to demystify compilers by building one
 - [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/) : Resources for Amateur Compiler Writers
-- [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) : Structure and Interpretation of Computer Programs
+- [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/فهرست.xhtml) : Structure and Interpretation of Computer Programs
 - [Writing My First Compiler](https://dev.to/fcpauldiaz/writing-my-first-compiler) : Write out your first compiler
 - [An Intro to Compilers](https://nicoleorchard.com/blog/compilers) : How to Speak to Computers, Pre-Siri
 - [Write your own compiler](http://staff.polito.it/silvano.rivoira/HowToWriteYourOwnCompiler.htm) : How to write your compiler
 - [Crafting Interpreters](http://craftinginterpreters.com/) A handbook for writing interpreters, first implementing a tree walking interpreter and later a bytecode virtual machine
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Tutorials
@@ -593,14 +593,14 @@
 - [How to Program in C++](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html) : Good resource for revising C++ topics and STL
 - [http://www.mysqltutorial.org/](http://www.mysqltutorial.org)
 - [indradhanush tutotials](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/) : Writing a Unix Shell
-- [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
+- [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/فهرست.htm)
 - [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 - [Learning the shell.](http://linuxcommand.org)
 - [Linux Journey](https://linuxjourney.com) : good site for learning Linux
 - [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
 - [Missing Semester](https://missing.csail.mit.edu/) : The missing semester of your computer science education
 - [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/)
-- [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
+- [MySQL Essentials](http://www.techotopia.com/فهرست.php/MySQL_Essentials)
 - [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos, provides code in various languages C++, Java, and pseudocode.
 - [OS Course Notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter-wise course notes according to Galvin's book
 - [Programming, Web Development, and DevOps news, tutorials, and tools for beginners to experts](https://dzone.com)
@@ -631,7 +631,7 @@
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Watch others code
@@ -639,7 +639,7 @@
 - [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## What should a programmer know
@@ -649,7 +649,7 @@
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Competitive programming
@@ -675,7 +675,7 @@
 - [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Computer Books
@@ -689,7 +689,7 @@
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Video Tutorials
@@ -707,7 +707,7 @@
 - [Pluralsight](https://www.pluralsight.com) : Learn Software Development, DevOps and Data Science through multiple short courses
 - [thenewboston](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
-- [Vim Tutorial Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
+- [Vim Tutorial Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/فهرست.html) : good video tutorial for learning vim
 - [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science) : learn about computer science for free
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
@@ -715,7 +715,7 @@
 - [Mastering Next.js](https://masteringnextjs.com/) : A free serie of videos to learn Next.js
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Online Compiler and Sharing Code snippets
@@ -734,7 +734,7 @@
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Blogs of Developers
@@ -777,7 +777,7 @@
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## For improving your English
@@ -789,7 +789,7 @@
 - [AntiMoon Immersion Approach](http://www.antimoon.com/how/howtolearn.htm): Immersion-based learning of English, can be used by people on different levels.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## When you get bored from CS related stuff
@@ -813,7 +813,7 @@
 - [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/) : Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Open Source Websites
@@ -837,7 +837,7 @@
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Internships
@@ -847,7 +847,7 @@
 - [PerfectIntern](https://www.perfectintern.com): Get help finding a paid internship, resume prep, interview prep, and more!
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ## Jobs
@@ -879,7 +879,7 @@
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#فهرست">↥</a></b>
 </div>
 
 ### Special Thanks
