@@ -14,7 +14,6 @@
 سایت های کابردی برای اخبار و یاد گرفتن چیز های جدید هستند.
 این یک لیست غیر کامل از آنها است. این لیست آپدیت خواهد شد.
 شما نیز میتواند به گسترش لیست کمک کنید
-😉
 
 **Note** : [نسخه اصلی-انگلیسی](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
@@ -27,12 +26,12 @@
 <li><a href="#اخبار">اخبار</a></li>
 <li><a href="#مجلات">مجلات</a></li>
 <li><a href="#عادت-های-برنامه-نویسی">تمرین برنامه نویسی برای تازه کار ها</a></li>
-<li><a href="#رمز-ارز
-">رمزارز - کریپتوکارنسی</a></li>
-<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">برای آن افرادی که پروژه کوچک میخواهند ولی ایده‌ای ندارد.</a></li>
-<li><a href="#general-coding-advice">توصیه های برنامه نویسی</a></li>
-<li><a href="#coding-style">سبک برنامه نویسی</a></li>
-<li><a href="#general-tools">ابزار عمومی</a></li>
+<li><a href="#رمز-ارز">رمزارز - کریپتوکارنسی</a></li>
+<li><a href="#برای-کسانی-که-پروژه-های-کوچک-می-خواهند-اما-پیدا-نمی-کنند">برای آن افرادی که پروژه کوچک میخواهند ولی ایده‌ای ندارد.</a></li>
+<li><a href="#توصیه-های-عمومی-کد-نویسی">توصیه های برنامه نویسی</a></li>
+<li><a href="#سبک-برنامه-نویسی">سبک برنامه نویسی</a></li>
+<li><a href="#ابزار-عمومی">ابزار عمومی</a></li>
+<li><a href="#بش و شل">بش و شل</a></li>
 <li><a href="#interview-preparation">آماده شدن برای مصاحبه</a></li>
 <li><a href="#documentaries">مستند ها</a></li>
 <li><a href="#moocs-for-learning-something-new">دوره های آزاد آنلاین برای یادگیری چیز های جدید</a></li>
@@ -242,15 +241,15 @@
   <b><a href="#فهرست">↥</a></b>
 </div>
 
-## Bash and Shell scripting  
-- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
-- [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) : Bash Guide for Beginners Machtelt Garrels
-- [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) : by Mike G mikkey at dynamo.com.ar
-- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html) : Bash Reference Manual
-- [BashGuide](http://mywiki.wooledge.org/BashGuide) : BashGuide - Greg's Wiki
-- [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : Unix and Linux Commands for Developers
-- [Airbon OS](https://www.airbornos.com) :  Private Google Docs Alternative
-- [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many ocasions
+## بش و شل
+- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : هنر اسکریپت نوشتن در بش
+- [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) : راهنمای بش
+- [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) : راهنمای بش توسط مایک میکی
+- [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html) : مرجع بش
+- [BashGuide](http://mywiki.wooledge.org/BashGuide) : راهنمای بش ۲
+- [Conquering the Command Line](http://conqueringthecommandline.com/book/frontmatter) : دستورات لینوکس و یونیکس برای دولوپر ها
+- [Airbon OS](https://www.airbornos.com) :  الترنایو به گوگل داکس شخصی
+- [Commandlinefu](https://www.commandlinefu.com/commands/browse) : توضیحات یک خطی برای نجات دادن جانتان
 
 <div align="right">
   <b><a href="#فهرست">↥</a></b>
