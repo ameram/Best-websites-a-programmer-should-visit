@@ -28,8 +28,8 @@
 ## فهرست
 <ul dir="rtl">
 <li><a href="#when-you-get-stuck">وقتی گیر کردید</a></li>
-<li><a href="#news">اخبار</a></li>
-<li><a href="https://github.com/ameram/Best-websites-a-programmer-should-visit#مجلات">مجلات</a></li>
+<li><a href="#اخبار">اخبار</a></li>
+<li><a href="#مجلات">مجلات</a></li>
 <li><a href="#coding-practice-for-beginners">تمرین برنامه نویسی برای تازه کار ها</a></li>
 <li><a href="#cryptocurrency">رمزارز - کریپتوکارنسی</a></li>
 <li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">برای آن افرادی که پروژه کوچک میخواهند ولی ایده‌ای ندارد.</a></li>
