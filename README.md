@@ -32,32 +32,31 @@
 <li><a href="#سبک-برنامه-نویسی">سبک برنامه نویسی</a></li>
 <li><a href="#ابزار-عمومی">ابزار عمومی</a></li>
 <li><a href="#بش-و-شل">بش و شل</a></li>
-<li><a href="#interview-preparation">آماده شدن برای مصاحبه</a></li>
-<li><a href="#documentaries">مستند ها</a></li>
-<li><a href="#moocs-for-learning-something-new">دوره های آزاد آنلاین برای یادگیری چیز های جدید</a></li>
-<li><a href="#sites-related-to-your-preferred-programming-language-for-me-c">سایت های مربوط به زبان برنامه نویسی ترجیحی</a></li>
-<li><a href="#learn-ai">یادگیری هوش مصنوعی</a></li>
-<li><a href="#seminar--research-writing--talks-etc">سمینار، نوشتن مقاله و سخنرانی ها</a></li>
-<li><a href="#everything-in-one-place">همه‌چیزدریک‌جا</a></li>
-<li><a href="#youtube-channels">کانال های یوتوب</a></li>
-<li><a href="#good-articles">مقالات خوب</a></li>
-<li><a href="#bash-and-shell-scripting">اسکریپت نویسی برای بش و شل</a></li>
-<li><a href="#podcasts">پادکست</a></li>
-<li><a href="#building-a-simple-compilerinterpreter">ساختن یک کامپایلر/مفسر ساده</a></li>
-<li><a href="#watch-others-code">دیدن کد نویسی دیگران</a></li>
-<li><a href="#tutorials">آموزش ها</a></li>
-<li><a href="#what-should-a-programmer-know">چه چیزی باید یک برنامه نویس بداند</a></li>
-<li><a href="#competitive-programming">برنامه نویسی رقابتی</a></li>
-<li><a href="#computer-books">کتاب های برنامه نویسی</a></li>
-<li><a href="#video-tutorials">دوره های ویدیویی</a></li>
-<li><a href="#online-compiler-and-sharing-code-snippets">کامپایلر های آنلاین و اشتراک تکه کد</a></li>
-<li><a href="#blogs-of-developers">وبلاگ های برنامه نویسی ها</a></li>
-<li><a href="#for-improving-your-english">برای بهبود انگیلیسی</a></li>
-<li><a href="#when-you-get-bored-from-cs-related-stuff">وقتی از چیز های مربوط به علوم/مهندسی کامپیوتر خسته می شوید</a></li>
-<li><a href="#open-source-websites">وبسایت های منبع باز (اوپن سورس)</a></li>
-<li><a href="#internships">کار آموزی</a></li>
-<li><a href="#jobs">کار</a></li>
-</ul>
+<li><strike><a href="#interview-preparation">آماده شدن برای مصاحبه</a></strike></li>
+<li><strike><a href="#documentaries">مستند ها</a></strike></li>
+<li><strike><a href="#moocs-for-learning-something-new">دوره های آزاد آنلاین برای یادگیری چیز های جدید</a></strike></li>
+<li><strike><a href="#sites-related-to-your-preferred-programming-language-for-me-c">سایت های مربوط به زبان برنامه نویسی ترجیحی</a></strike></li>
+<li><strike><a href="#learn-ai">یادگیری هوش مصنوعی</a></strike></li>
+<li><strike><a href="#seminar--research-writing--talks-etc">سمینار، نوشتن مقاله و سخنرانی ها</a></strike></li>
+<li><strike><a href="#everything-in-one-place">همه‌چیزدریک‌جا</a></strike></li>
+<li><strike><a href="#youtube-channels">کانال های یوتوب</a></strike></li>
+<li><strike><a href="#good-articles">مقالات خوب</a></strike></li>
+<li><strike><a href="#bash-and-shell-scripting">اسکریپت نویسی برای بش و شل</a></strike></li>
+<li><strike><a href="#podcasts">پادکست</a></strike></li>
+<li><strike><a href="#building-a-simple-compilerinterpreter">ساختن یک کامپایلر/مفسر ساده</a></strike></li>
+<li><strike><a href="#watch-others-code">دیدن کد نویسی دیگران</a></strike></li>
+<li><strike><a href="#tutorials">آموزش ها</a></strike></li>
+<li><strike><a href="#what-should-a-programmer-know">چه چیزی باید یک برنامه نویس بداند</a></strike></li>
+<li><strike><a href="#competitive-programming">برنامه نویسی رقابتی</a></strike></li>
+<li><strike><a href="#computer-books">کتاب های برنامه نویسی</a></strike></li>
+<li><strike><a href="#video-tutorials">دوره های ویدیویی</a></strike></li>
+<li><strike><a href="#online-compiler-and-sharing-code-snippets">کامپایلر های آنلاین و اشتراک تکه کد</a></strike></li>
+<li><strike><a href="#blogs-of-developers">وبلاگ های برنامه نویسی ها</a></strike></li>
+<li><strike><a href="#for-improving-your-english">برای بهبود انگیلیسی</a></strike></li>
+<li><strike><a href="#when-you-get-bored-from-cs-related-stuff">وقتی از چیز های مربوط به علوم/مهندسی کامپیوتر خسته می شوید</a></strike></li>
+<li><strike><a href="#open-source-websites">وبسایت های منبع باز (اوپن سورس)</a></strike></li>
+<li><strike><a href="#internships">کار آموزی</a></strike></li>
+<li><strike><a href="#jobs">کار</a></strike></li></ul>
 
 ## وقتی گیر کردید
 - [Codementor](https://www.codementor.io) :  انجمن منتور برای یادگیری از دولوپر های دیگر بطور زنده و خصوصی.
