@@ -74,86 +74,86 @@
   <b><a href="#index">بالا</a></b>
 </div>
 
-## News
-- [ACM TechNews](http://technews.acm.org) : TechNews
-- [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
-- [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
-- [Ars Technica](https://arstechnica.com) : posts unique quality articles
-- [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
-- [Better Programming](https://medium.com/better-programming) : Featured articles for modern developers available every day 
-- [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
-- [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
-- [Frontend Focus Newsletter](https://frontendfoc.us) : once-weekly roundup of the frontend news, articles and tutorials
-- [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
-- [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
-- [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-- [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
-- [Hacker Noon](https://hackernoon.com) : How hackers start their afternoons.
-- [High Scalability](http://highscalability.com) : Success stories of various companies on their apps, infra scaling.
-- [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
-- [product hunt](https://www.producthunt.com) : Discover your next favorite thing
-- [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
-- [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
-- [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
-- [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
-- [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
-- [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
-- [The Verge](https://www.theverge.com) : More product oriented tech news
-- [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software, and everything else in the Tech World. 
-- [XDA](https://www.xda-developers.com) : Android Developers News
-- [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
+## اخبار
+- [ACM TechNews](http://technews.acm.org) : اخبار تکنولوژی
+- [Stratechery](https://stratechery.com) : Stratechery توسط بن تامسون
+- [AlternativeTo](https://alternativeto.net) : الترناتیو های برنامه توسط رای گیری
+- [Ars Technica](https://arstechnica.com) : پست های خاص و با کیفیت
+- [Better Dev Links](https://betterdev.link) : لینک های هفتگی برای تبدیل شدن به برنامه نویس بهتر
+- [Better Programming](https://medium.com/better-programming) : مقاله های روزانه برای دولوپر های بهتر
+- [Daily.Dev](https://daily.dev/) : افزونه کروم که اخبار و مقالات ارائه میدهد
+- [DevOpsLinks](http://devopslinks.com) : انجمن انلاین دولوپر های دوآپس
+- [Frontend Focus Newsletter](https://frontendfoc.us) : اخبار، آموزش و مقالات هفتگی فراند اند
+- [GSMArena.com](http://www.gsmarena.com) : اخبار گوشی و اندروید
+- [Hacker News Digest](https://hndigest.com) : اتوماتیک انتخاب شده و در وقت دلخواه فرستاده می شوند
+- [Hacker News](https://news.ycombinator.com) : منبع کامل اخبار
+- [Hacker Newsletter](http://www.hackernewsletter.com) : دستی انتخاب میشوند، هفتگی
+- [Hacker Noon](https://hackernoon.com) : چگونه هکر های بعد از ظهرشان را می گذرانند
+- [High Scalability](http://highscalability.com) : داستان موفقیت شرکت ها و اپ ها
+- [Lobsters](https://lobste.rs) : انجمن با تمرکز روی تکنولوزی و اخبار
+- [product hunt](https://www.producthunt.com) : محصولات مورد علاقه‌تان را بیابید
+- [Recode](https://www.recode.net) : اخبار تکنولوژی با تمرکز بر روی بیزنس
+- [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : ساب رددیت برنامه نویسی
+- [Slashdot](https://slashdot.org) : اخبار، اخبار اجتماعی
+- [StackShare](https://stackshare.io) : چیز استفاده شده توسط برنامه نویس ها و شرکت‌هایشان
+- [TechCrunch](https://techcrunch.com) : برای نظارت بر روی استارت آپ ها و اخبار تکنولوژی
+- [The DEV Community](https://dev.to) : جایی که برنامه نویس ها ایده هایشان را به اشتراک میگذارند و به همدیگر کمک می کنند
+- [The Verge](https://www.theverge.com) : اخبار با تمرکز به محصولات
+- [WCCF Tech](https://wccftech.com) : اخبار نرم افزار و سخت افزار 
+- [XDA](https://www.xda-developers.com) : اخبار توسعه دهنده‌ی اندروید
+- [Hashnode](https://hashnode.com/) : انجمن دوستانه برنامه نویس ها
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥</a></b>
 </div>
 
-## Magazines
-- [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
-- [Nautilus](http://nautil.us) : NewYorker for tech.
-- [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
+## مجلات
+- [MIT Technology Review](https://www.technologyreview.com/magazine/) : نقد تکنولوژی ام ای تی
+- [Nautilus](http://nautil.us) : مانند مجله نیویورکر برای برنامه نویسی
+- [LWN](https://lwn.net) : اخبار هفتگی که اوپن سورس و برنامه نویسی را پوشش میدهد.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥</a></b>
 </div>
 
-## Coding practice for beginners
-- [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
-- [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
-- [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
-- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code, even if you are not able to solve code you can look at how others solved.
-- [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
-- [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
-- [Exercism.io](http://exercism.io) : download and solve practice problems in over 50 different languages, and share your solution with others.
-- [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : Gamifies the experience of practicing for your interview and includes lots of sample problems to solve.
-- [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
-- [Lod - Cloud](http://lod-cloud.net) : The Linking Open Data cloud diagram
-- [Cave of programming](https://caveofprogramming.com) : Learn to program, Upgrade your skills.
-- [Vim adventures](https://vim-adventures.com/) : Learn VIM by playing
-- [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
-- [Pramp](https://www.pramp.com) : It's your turn to be the interviewer. when done, click on the swap roles button on the left
-- [Paqmind](http://paqmind.com) : Guides and challenges to learn programming
-- [gitignore](https://www.gitignore.io/) : A collection of useful .gitignore templates for your project. Select from 442 Operating System, IDE, and Programming Language
-- [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
-- [treehouse](https://teamtreehouse.com) : The fast, easy, and affordable way to build your skills.
-- [GeeksforGeeks](https://practice.geeksforgeeks.org) : Learn to code, Study for placement, Do competitive coding.
-- [edabit](https://edabit.com/challenges) : Practice coding via various small challenges.
+## عادت های برنامه نویسی 
+- [freeCodeCamp](https://www.freecodecamp.com) : اموزش برنامه نویسی رایگان
+- [Blackbird School](https://blackbird.school) : پلتفرم برای شروع برنامه نویسی
+- [Glitch](https://glitch.com/) : بهترین جا برای بازی کردن با کد
+- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : چالش های برنامه نویسی جایی که حتی اگر حل نکردید هم میتوانید از کد دیگران یاد بگیرید.
+- [Programming by Doing](http://programmingbydoing.com) : بهترین سایت برای یادگیری پایه ها
+- [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : بهترین سایت برای شروع حل مسله مشکلات به مرور سخت تر می شوند.
+- [Exercism.io](http://exercism.io) : سوالات اموزشی با ۵۰ زبان
+- [InterviewBit | Coding Interview Questions](https://www.interviewbit.com) : تجربه بازی مانند برای حل کردن مسله های استخدامی
+- [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : حل سوالات ذکر شده در لینک بالا
+- [Lod - Cloud](http://lod-cloud.net) : دیاگرام داده های لینک شده
+- [Cave of programming](https://caveofprogramming.com) : برنامه نویسی یادبگیرید، مهارت هایتان رو تقویت کنید.
+- [Vim adventures](https://vim-adventures.com/) : ادیتور ویم VIM را یاد بگیرید.
+- [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : مجمومه برنامه های کوچک
+- [Pramp](https://www.pramp.com) : مصاحبه کننده باشید
+- [Paqmind](http://paqmind.com) : راهنما و چالش های یادگیری برنامه نویسی
+- [gitignore](https://www.gitignore.io/) : مجموعه فایل های گیت ایگنور و تنظیمات مختلف سیستم ها
+- [Codeacademy](https://www.codecademy.com) : کد نویسی را رایگان یاد بگیرید
+- [treehouse](https://teamtreehouse.com) : راه سریع، ساده و به صرفه یادگیری
+- [GeeksforGeeks](https://practice.geeksforgeeks.org) : یادگیری کد و برنامه نویسی رقابتی
+- [edabit](https://edabit.com/challenges) : برنامه نویسی را با چالش های کوچک یاد بگیرید
 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥</a></b>
 </div>
 
-## CryptoCurrency
-- [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
-- [Coin demo](https://coindemo.io/) : CryptoCurrency demo
-- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
-- [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
-- [GitCoin](https://gitcoin.co) : Gitcoin is the easiest way to monetize or incentivize work in Open Source Software.
-- [Lite Paper](https://litepaper.com/) : Cryptocurrencies & Blockchain made effortless
-- [Learn Me A Bitcoin](https://learnmeabitcoin.com/): Bitcoin, Cryptocurrencies and Blockchain explained in plain English
+## رمز ارز
+- [Blockchain demo](https://blockchaindemo.io/) : دمو بصری بیت‌کوین
+- [Coin demo](https://coindemo.io/) : رمو رمز ارز ها
+- [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : منابع بیت‌کوین
+- [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : مقدمه به بیت‌کوین
+- [GitCoin](https://gitcoin.co) : درامد از اوپن‌سورس
+- [Lite Paper](https://litepaper.com/) : امورش راحت رمز ارز
+- [Learn Me A Bitcoin](https://learnmeabitcoin.com/): بیت‌کوین رمز ارز و بلاک‌چین در انگلیسی ساده
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#index">↥</a></b>
 </div>
 
 ## For those who want to start a small project but can't find the ideas
