@@ -31,7 +31,7 @@
 <li><a href="#توصیه-های-عمومی-کد-نویسی">توصیه های برنامه نویسی</a></li>
 <li><a href="#سبک-برنامه-نویسی">سبک برنامه نویسی</a></li>
 <li><a href="#ابزار-عمومی">ابزار عمومی</a></li>
-<li><a href="#بش و شل">بش و شل</a></li>
+<li><a href="#بش-و-شل">بش و شل</a></li>
 <li><a href="#interview-preparation">آماده شدن برای مصاحبه</a></li>
 <li><a href="#documentaries">مستند ها</a></li>
 <li><a href="#moocs-for-learning-something-new">دوره های آزاد آنلاین برای یادگیری چیز های جدید</a></li>
