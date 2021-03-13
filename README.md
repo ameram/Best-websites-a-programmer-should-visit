@@ -32,8 +32,8 @@
 <li><a href="#سبک-برنامه-نویسی">سبک برنامه نویسی</a></li>
 <li><a href="#ابزار-عمومی">ابزار عمومی</a></li>
 <li><a href="#بش-و-شل">بش و شل</a></li>
-<li><strike><a href="#interview-preparation">آماده شدن برای مصاحبه</a></strike></li>
-<li><strike><a href="#documentaries">مستند ها</a></strike></li>
+<li><a href="#آماده شدن به مصاحبه">آماده شدن برای مصاحبه</a></li>
+<li><a href="#مستند ها">مستند ها</a></li>
 <li><strike><a href="#moocs-for-learning-something-new">دوره های آزاد آنلاین برای یادگیری چیز های جدید</a></strike></li>
 <li><strike><a href="#sites-related-to-your-preferred-programming-language-for-me-c">سایت های مربوط به زبان برنامه نویسی ترجیحی</a></strike></li>
 <li><strike><a href="#learn-ai">یادگیری هوش مصنوعی</a></strike></li>
@@ -254,64 +254,64 @@
   <b><a href="#فهرست">↥</a></b>
 </div>
 
-## Interview Preparation
-- [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful!
-- [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
-- [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
-- [Algorithm design canvas](https://www.hiredintech.com/algorithm-design)
-- [Aptitude Questions and Answers](http://www.indiabix.com) : Quant and aptitude preparation
-- [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) : whatever the heck those are) and other things that make you think!
-- [Big collection of interview preparation links • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/)
-- [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
-- [BIG O Misconceptions](http://ssp.impulsetrain.com/big-o.html)
-- [Bitwise tricks](https://gist.github.com/dideler/2365607)
-- [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : questions to ask during on a interview to know more about the company.
-- [Code Project](https://www.codeproject.com) : For those who code!
-- [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
-- [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/فهرست.php)
-- [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)
-- [Delightful Puzzles](http://gurmeet.net/puzzles/)
-- [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
-- [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-- [Freshers Interviews](http://placementsindia.blogspot.com)
-- [Gainlo](http://www.gainlo.co/#!/) : Mock interview from professionals 
-- [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
-- [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
-- [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
-- [Here's How to Prepare for Tech Interviews • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
-- [How to Answer "Tell Me a Little About Yourself" | The Art of Manliness](http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/)
-- [How to Answer the Toughest 40 Job Interview Questions | ICS Job Portal](http://www.icsjobportal.com/blog/job-interview-questions)
-- [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)
-- [How to interview](http://kelukelu.me/interview/فهرست.html)
-- [How to prepare for an interview - 1](http://se7so.blogspot.com/2014/01/how-to-prepare-for-interview-1.html)
+## آماده شدن به مصاحبه
+- [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : لیست کامل سوالات مصاحبه
+- [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html) : ۱۰ سوال اسکیوال
+- [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk) : معما
+- [Algorithm design canvas](https://www.hiredintech.com/algorithm-design) : تخته‌ی طراحی الگوریتم
+- [Aptitude Questions and Answers](http://www.indiabix.com) : سوالات ازمونی
+- [A site for technical interview questions, brain teasers, puzzles, quizzles](https://www.techinterview.org) : سوالات تکنیکی و معما ها
+- [Big collection of interview preparation links • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/) : ساب رددیت سوالات مصاحبه
+- [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#) : کاغذ تقلب یبگ-او
+- [BIG O Misconceptions](http://ssp.impulsetrain.com/big-o.html) : باور های غلط در مورد بیگ-او
+- [Bitwise tricks](https://gist.github.com/dideler/2365607) : فوت و فن های کار با بیت ها
+- [ChiperSoft/InterviewThis](https://github.com/Twipped/InterviewThis) : سوالاتی که شما باید هنگام مصاحبه بپرسید
+- [Code Project](https://www.codeproject.com) : برای کد نویس ها
+- [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/) : سوالات مصاحبه جاوا
+- [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/فهرست.php) : سوالات/پازل های سی
+- [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/) : حل مسله برای مصاحبه تکنیکی
+- [Delightful Puzzles](http://gurmeet.net/puzzles/) : پازل های زیبا
+- [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : سوالات استک اورفلو مربوط به پیچیدگی زمان اجرا
+- [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) : ۵ سوال پایه‌ای  برای مصاحبه تلفنی
+- [Freshers Interviews](http://placementsindia.blogspot.com) : مرور مصاحبات
+- [Gainlo](http://www.gainlo.co/#!/) : مصاحبه ها برای افراد حرفه‌ای
+- [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org) : برای خبرنامه به فیدشان ثبتنام کنید.
+- [github.com/odino/interviews](https://github.com/odino/interviews) : سوالات مهم مصاحبه
+- [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/) : فیس لیف کردن رزومه
+- [Here's How to Prepare for Tech Interviews • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/) : اماده شدن به مصاحبه تکنیکی
+- [How to Answer "Tell Me a Little About Yourself" | The Art of Manliness](http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/) : جواب دادن به بخش «در مورد خوتان بگویید» مناسب
+- [How to Answer the Toughest 40 Job Interview Questions | ICS Job Portal](http://www.icsjobportal.com/blog/job-interview-questions) : ۴۰ تا از سخت ترین مصاحبه ها
+- [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews) : راهنمای کار یابی
+- [How to interview](http://kelukelu.me/interview/فهرست.html) : چگونه مصاحبه شویم
+- [How to prepare for an interview - 1](http://se7so.blogspot.com/2014/01/how-to-prepare-for-interview-1.html) : آماده شدن به مصاحبه
 - [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.com)
-- [samwincott/Internship-Guide](https://github.com/samwincott/Internship-Guide) : An aggregrate of links related to internships.
-- [Interviewing At Jane Street](https://blog.janestreet.com/interviewing-at-jane-street/) : Interviewing At Jane Street
-- [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
-- [Interview Cake](https://www.interviewcake.com/) : Free and Paid course options offering high quality technical interview practice. 
+- [samwincott/Internship-Guide](https://github.com/samwincott/Internship-Guide) :لینک های کارآموزی
+- [Interviewing At Jane Street](https://blog.janestreet.com/interviewing-at-jane-street/) : مصاحبه در خیابان جین
+- [Interview Archives - Java Honk](http://javahonk.com/category/interview/) : ارشیو مصاحبه
+- [Interview Cake](https://www.interviewcake.com/) : دوره های رایگان و پولی برای مصاحبه
 - [Job Interview: How to Ace a Job Interview | The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
 - [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/tag/job-interviews)
 - [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
-- [kimberli/interviews](https://github.com/kimberli/interviews) : study sheet for Interview
-- [LeetCode](https://leetcode.com/) : A new way to learn.here you can prepare for your interview.
-- [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) : A large collection of coding interview problems
-- [Pramp | A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1) : Practice coding interviews with real peers
-- [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
+- [kimberli/interviews](https://github.com/kimberli/interviews) : منبع مصاحبه
+- [LeetCode](https://leetcode.com/) : راه جدید اماده شدن به مصاحبه
+- [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) : سوالات مصاحبه
+- [Pramp | A free on demand interview practice platform for Software Engineers](https://www.pramp.com/ref/gt1) : تمرین مصاحبه با افراد واقعی
+- [Problems | LeetCode OJ](https://leetcode.com/problemset/algorithms/) : تمرین کد برای مصاحبه
 - [Programmer And Software Interview Questions Answers](http://www.programmerinterview.com)
-- [Reddit.com/user/ashish2199/m/puzzles](https://www.reddit.com/user/ashish2199/m/puzzles/) : Logic Puzzles
-- [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : great SQL test
+- [Reddit.com/user/ashish2199/m/puzzles](https://www.reddit.com/user/ashish2199/m/puzzles/) : پازل های منطق
+- [SQL interview questions](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : تست اسکیوال
 - [SQL Joins explained using venn diagram](http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf)
-- [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : Java interview questions
-- [Techie Delight](https://www.techiedelight.com) : Leading platform for technical interview preparation.
+- [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : سوالات مصاحبه جاوا
+- [Techie Delight](https://www.techiedelight.com) : اماده شدن به مصاحبه تکنیکی
 - [The 25 most difficult HR questions](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
-- [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) : Algorithms for Coding Interview
+- [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) : الگوریتم برای مصاحبه ها
 - [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 - [Unsolicited_advice_for_job_seekers_and_employers](https://www.reddit.com/r/india/comments/1clgdj/unsolicited_advice_for_job_seekers_and_employers/)
 - [Visualising Data Structures and Algorithms through Animation](https://visualgo.net/en)
-- [We Help Coders Get Hired](https://www.hiredintech.com/app) : website offering courses on system design, interview strategies, soft skills etc
+- [We Help Coders Get Hired](https://www.hiredintech.com/app) : وبسایت کمک برای کاریابی
 - [what_are_your_goto_questions_for_the_do_you_have?](https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/)
 - [Why You Make Less Money • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
-- [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
+- [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : معما و پازل
 - [What I Learned from Interviewing at multiple AI Companies and Start-Ups](https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc#fa32)
 
 
@@ -319,27 +319,27 @@
   <b><a href="#فهرست">↥</a></b>
 </div>
 
-## Documentaries
-- [Breaking the Code](https://ia801908.us.archive.org/27/items/youtube-S23yie-779k/) : Biography of Alan Turing
-- [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
-- [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Cracking the Coding Interview, Fullstack Speaker Series
-- [Download: The True Story of the Internet](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) : Play-list of discovery channel documentary on browser wars, dot com bubble and more.
-- [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) : Asymptotic Notation explained by Harvard
-- [How does CPU execute a program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) : Take a look at how a CPU executes programs
-- [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) : Code instructions
-- Machine that Changed the World - a very good documentary about the history of computers
-  - Part 1 is unavailable for free streaming due to widespread copyright claims.
+## مستند ها
+- [Breaking the Code](https://ia801908.us.archive.org/27/items/youtube-S23yie-779k/) : بیوگرافی الن تورینگ
+- [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : یادگیری مصاحبه‌ی کد زنی
+- [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : یادگیری مصاحبه کد زنی برای فول استک
+- [Download: The True Story of the Internet](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) : پلی-لیست مستندات اینترنتی
+- [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) : آنالیز های مجانبی توسط هاروارد
+- [How does CPU execute a program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) : چگونه سی پی یو یک برنامه را اجرا میکند
+- [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) : کد ماشینی (سطح پایین)
+- ماشینی که دنیا را تغییر داد - مستندی در مورد کامپیوتر ها
+  - بخش ۱ موجود نیست به دلیل کپی رایت
   - [Part 2: Inventing the Future](https://www.youtube.com/watch?v=0iPiYxjsYKk)
   - [Part 3: The Paperback Computer](https://www.youtube.com/watch?v=d7DKVfOXr54)
   - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k)
   - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo)
-- [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : a very good video from the 1950s explaining how mechanical computers used to work without all the modern-day electronics.
-- [Project Code Rush](https://www.youtube.com/watch?v=a-49a_CjH0M) : The Beginnings of Netscape / Mozilla Documentary
-- [Revolution OS Linux Documentary](https://www.youtube.com/watch?v=4vW62KqKJ5A) : a film that traces the history of GNU, Linux, open-source, and the free software movement.
-- [Teach Yourself Computer Science](https://teachyourselfcs.com) : Teach Yourself Computer Science
-- [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : Story of Linux documentary
-- [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : Play-list
-- [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
+- [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) : فیلمی از ۱۹۵۰ که روش کار کامپیوتر را نشان میدهد
+- [Project Code Rush](https://www.youtube.com/watch?v=a-49a_CjH0M) : شروع نت‌ اسکیپ و موزیلا
+- [Revolution OS Linux Documentary](https://www.youtube.com/watch?v=4vW62KqKJ5A) : تاریخ لینوکس، گنو و اوپن سورس
+- [Teach Yourself Computer Science](https://teachyourselfcs.com) : علوم کامیپوتر را یادبگیرید
+- [The Code](https://www.youtube.com/watch?v=XMm0HsmOTFI) : داستان تاریخ لینوکس
+- [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) : پلی لیست
+- [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : داستان ارون سووارتز
 
 <div align="right">
   <b><a href="#فهرست">↥</a></b>
